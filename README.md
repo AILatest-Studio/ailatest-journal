@@ -70,6 +70,10 @@
 
 ---
 
+### 🏷 Related Topics & Search Keywords
+`journal-finder` · `impact-factor-2025` · `jcr-quartiles` · `cas-zones` · `scie-journals` · `ssci-journals` · `wos-on-hold` · `journal-warning-list` · `ai-journal-recommender` · `open-access-apc` · `review-cycles`
+
+---
 <a id="chinese"></a>
 <p align="right">
   <a href="#top"><b>Back to Top (English)</b></a> | <b>中文说明</b>
@@ -91,3 +95,6 @@
 5. **双语界面与 PWA 支持**：支持中英文无缝切换，支持直接安装至桌面或移动端离线检索。
 
 🌐 **立即在线体验**：[**https://journal.ailatest.org/**](https://journal.ailatest.org/)
+
+### 🏷 热门搜索关键词与相关主题
+`知刊` · `期刊查询` · `SCI期刊查询` · `影响因子查询` · `中科院分区` · `中科院预警期刊名单` · `WoS剔除预警` · `论文投稿选刊` · `智能荐刊` · `SSCI目录` · `EI期刊` · `审稿周期查询` · `版面费APC`
